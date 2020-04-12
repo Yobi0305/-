@@ -1,0 +1,16 @@
+{
+  "id": "btbtdy",
+  "name": "迅雷BT种子下载|高清电影下载",
+  "url": "http://www.btbtdy.la",
+  "icon": "http://www.btbtdy.la/favicon.ico",
+  "paths": {
+    "preset": "/?__CBK={p}ab62bf9d08a1a977c556a5d2549d64f1586695456_4739071"
+  },
+  "xpath": {
+    "group": "//body",
+    "magnet": "./div[3]/div[1]/div[1]/div[2]/ul[3]/li[6]/div[2]/p[1]/a[1]/@href",
+    "name": "./div[3]/div[1]/div[1]/div[2]/ul[3]/li[6]/div[2]/p[1]/a[1]",
+    "size": "./script[7]",
+    "date": "./div[3]/div[3]/div[1]/div[2]/ul[1]/li[2]/div[2]/p[1]/a[1]"
+  }
+}
